@@ -2,4 +2,7 @@ AIRGroup14
 
 DPR pretrained vs finetuned
 
-Article title vs chapter title comparison
+Notes:
+
+Article title or chapter title as title?
+Score & Title Score are arbitrary, since they are missing from the dataset
