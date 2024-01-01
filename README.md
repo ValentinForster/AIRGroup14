@@ -1,7 +1,4 @@
-AIRGroup14
-
-DPR pretrained vs finetuned
-
+AIRGroup14: DPR pretrained vs finetuned
 
 **Notes:**
 
