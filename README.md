@@ -11,7 +11,7 @@ In this project, we aim to compare the performance of a DPR (Dense Passage Retri
 
 ## Datasets
 
-For our fine-tuning experiments, we will utilize the German datasets provided by Deepset.ai, specifically the GermanQuad dataset. You can find the datasets [here](https://www.deepset.ai/germanquad).
+For our fine-tuning experiments, we will utilize the German datasets provided by Deepset.ai, specifically the GermanQuad dataset. You can find the datasets [here](https://www.deepset.ai/germanquad). The GermanQuAD dataset was processed to fit the correct format for training.
 
 ## Pre-Trained Models
 
