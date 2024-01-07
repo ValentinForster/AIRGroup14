@@ -14,9 +14,10 @@ In this project, we aim to compare the performance of a DPR (Dense Passage Retri
 For our fine-tuning experiments, we will utilize the German datasets provided by Deepset.ai, specifically the GermanQuad dataset. You can find the datasets [here](https://www.deepset.ai/germanquad).
 
 ## Pre-Trained Models
-https://huggingface.co/facebook/dpr-ctx_encoder-single-nq-base
 
-https://huggingface.co/facebook/dpr-question_encoder-single-nq-base
+[dpr-ctx_encoder-single-nq-base](https://huggingface.co/facebook/dpr-ctx_encoder-single-nq-base).
+
+[dpr-question_encoder-single-nq-base](https://huggingface.co/facebook/dpr-question_encoder-single-nq-base).
 
 ## Notes
 
