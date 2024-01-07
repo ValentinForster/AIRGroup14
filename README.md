@@ -16,7 +16,6 @@ For our fine-tuning experiments, we will utilize the German datasets provided by
 ## Notes
 
 - We will explore whether it is more effective to use a pretrained DPR model on German datasets or fine-tune a model from scratch.
-- We acknowledge that the dataset lacks Score and Title Score, which are usually present in DPR datasets. This missing data may impact our results, and we will address this limitation in our analysis.
-
-Should we use article titles or chapter titles as the main title for our project? Further discussions and decisions will be made during the course of the project.
+- We acknowledge that GermandQuAD lacks Score and Title Score, which are usually present in DPR datasets. We opted for 10 and 8 as score and title score, respectively. As this decision may impact our results, we will address this limitation in our analysis.
+- We chose the article title rather than the chapter title for GermanQuAD
 
